@@ -1,5 +1,3 @@
-#!/usr/bin/env node
-
 var req   = require('request'),
     exec  = require('child_process').exec,
     fs    = require('fs'),
