@@ -2,7 +2,7 @@
   "name": "amazon-tracker",
   "version": "0.0.1",
   "author": "Aaron Reichman",
-  "description": "Check the in-stock status of a product on Amazon and send yourself an iMessage when it becomes available",
+  "description": "Monitor the in-stock status of a product from Amazon.com and send yourself an iMessage when it becomes available.",
   "repository": {
     "type": "git",
     "url": "https://github.com/areichman/amazon-tracker"
