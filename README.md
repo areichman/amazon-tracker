@@ -33,12 +33,11 @@ amazon-tracker is free software, and may be redistributed under the MIT-LICENSE.
 
 ## FAQ
 
-Q: Why did you make this app?
+**Q: Why did you make this app?**  
 A: I was trying to buy some Frozen dolls for my daughter and they were sold out everywhere.
 
-Q: Why didn't you just register at one of those product tracker sites and have them send
-you and email or text when it was available?
+**Q: Why didn't you just register at one of those product tracker sites and have them send you and email or text when it was available?**  
 A: I think those sites are sketchy and don't trust them.
 
-Q: Frozen, huh? Does that "Let It Go" song play in your head all day long too?
+**Q: Frozen, huh? Does that "Let It Go" song play in your head all day long too?**  
 A: Yes. Yes it does. If you find a way to make it stop, please let me know.
