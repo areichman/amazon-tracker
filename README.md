@@ -5,7 +5,7 @@ when it becomes available.
 ## Setup
 Assuming Node.js is already installed, just run `npm install` to download the project dependencies.
 
-Next, add the list of products you want to track to `amazon.json`.  It should look something like this:
+Next, add the list of products you want to track to `items.json`.  It should look something like this:
 
 ```
 [
